@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align ="center">Hi There! I'm Aavaig Malhotra <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px"></h1>
 
 <!--
 **aavaigrocks2001/aavaigrocks2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
