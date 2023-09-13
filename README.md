@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aavaig-malhotra&label=Profile%20views&color=0e75b6&style=flat" alt="aavaig-malhotra" /> </p>
 
-- 🌱 I’m currently learning **Salesforce Commerce Cloud and React Native**
+- 🌱 I’m currently learning **React, Typescript, Component Lifecycles and In-depth concepts of Frontend Web Development**
 
 - 👯 I’m looking to collaborate on **FullStack Projects**
 
-- 💬 Ask me about **HTML, CSS, Javascript, React, NodeJs, MongoDB, PostgreSQL**
+- 💬 Ask me about **HTML, CSS, Javascript, React, Typescript NodeJs, MongoDB, PostgreSQL**
 
 - 📫 How to reach me **aavaigmalhotra2001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1n3VY0ThGFtYxmtHH499V-jS6OqJAWuOI/view?usp=sharing](https://drive.google.com/file/d/1n3VY0ThGFtYxmtHH499V-jS6OqJAWuOI/view?usp=sharing)
+- 📄 Know about my experiences [here](https://bit.ly/aavaig-malhotra)
 
 - ⚡ Fun fact **I was not a programmer till 2nd year of my college**
 
